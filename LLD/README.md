@@ -1,6 +1,8 @@
 # Low-Level Design — Parking Lot System
 
-This folder holds LLD artifacts for the Java parking lot in the parent repository.
+**Author:** [vinu-varsidh](https://github.com/vinu-varsidh)
+
+LLD documentation for the Java parking lot in the parent repository.
 
 ## Problem scope
 

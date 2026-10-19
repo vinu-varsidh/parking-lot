@@ -1,5 +1,7 @@
 # Parking Lot System (Java)
 
+**Author:** [vinu-varsidh](https://github.com/vinu-varsidh) — design and implementation.
+
 A small, thread-aware parking lot domain model: vehicles park in typed spots across floors, receive tickets, pay on exit via pluggable pricing and payment, and release spots when payment succeeds.
 
 **Requirements:** Java 17+ (records, switch expressions, `Map.copyOf`).
@@ -397,4 +399,4 @@ Runnable `main` that wires the graph:
 
 ## License
 
-MIT (add a `LICENSE` file if you publish publicly).
+MIT License. See [LICENSE](LICENSE).
