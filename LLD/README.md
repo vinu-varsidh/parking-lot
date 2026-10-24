@@ -4,6 +4,8 @@
 
 LLD documentation for the Java parking lot in the parent repository.
 
+For interview preparation and class-by-class design reasoning, see [Master Revision Notes](REVISION_NOTES.md).
+
 ## Problem scope
 
 Support entry, parking, exit with payment, and spot release for **motorcycles**, **cars**, and **trucks** across **multiple floors**, with pluggable spot assignment and pricing.
