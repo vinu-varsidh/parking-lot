@@ -6,6 +6,8 @@ A small, thread-aware parking lot domain model: vehicles park in typed spots acr
 
 **Requirements:** Java 17+ (records, switch expressions, `Map.copyOf`).
 
+> **New to the design?** Read [LLD/DEEP_DIVE.md](LLD/DEEP_DIVE.md) for the full walkthrough, per-class decisions and invariants.
+
 ## Quick start
 
 With Maven:

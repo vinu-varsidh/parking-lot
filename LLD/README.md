@@ -4,7 +4,7 @@
 
 LLD documentation for the Java parking lot in the parent repository.
 
-For interview preparation and class-by-class design reasoning, see [Master Revision Notes](REVISION_NOTES.md).
+For interview preparation and class-by-class design reasoning, see [Master Revision Notes](REVISION_NOTES.md). For a beginner-friendly full explanation with walkthroughs, see [Deep Dive](DEEP_DIVE.md).
 
 ## Problem scope
 
